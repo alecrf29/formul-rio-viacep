@@ -1,4 +1,4 @@
-# formul-rio-viacep
+# formulario-viacep
 
 O projeto em questão foi feito para treinar e criar uma base sólida a respeito do consumo de APIs e tratamento de dados.
 
